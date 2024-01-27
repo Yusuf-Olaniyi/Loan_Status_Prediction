@@ -9,7 +9,5 @@ pydantic_core==2.14.6
 scikit-image==0.21.0
 scikit-learn==1.2
 scipy==1.9.1
-seaborn==0.12.0
-sklearn==0.0
 uvicorn==0.27.0
 
